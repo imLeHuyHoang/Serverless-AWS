@@ -1,11 +1,11 @@
-## Serverless-AWS
+# Serverless-AWS
 
-# Mô tả:
+## Mô tả:
 Đây là 1 challenge tìm hiểu về Severless trong 35 ngày. Trong 35 ngày này tôi sẽ tìm hiểu lần lượt theo syllabus sau và note lại những kiến thức đã tự tìm hiểu sau từng ngày:
 
 [Day 1: Serverless Paradigm](https://www.notion.so/Day-1-Serverless-Paradigm-3ef11186cf61494b9a81661019e88169?pvs=21)
 
-[Day 2 - AWS Lambda](https://www.notion.so/Day-2-AWS-Lambda-e4de4ed32a244c8890e39cc00979da01?pvs=21)
+[Day 2: AWS Lambda](https://www.notion.so/Day-2-AWS-Lambda-e4de4ed32a244c8890e39cc00979da01?pvs=21)
 
 [Day 3: Amazon DynamoDB](https://www.notion.so/Day-3-Amazon-DynamoDB-5708cac5b452454c9a08873a472fcc3f?pvs=21)
 
@@ -57,5 +57,5 @@
 
 [Day 35: Continuous Learning Roadmap](https://www.notion.so/Day-35-Continuous-Learning-Roadmap-18518117e16f44b5b7e48fe34490c669?pvs=21)
 
-# Link Notion tự tìm hiểu từng ngày:
+## Link Notion tự tìm hiểu từng ngày:
 Link Notion Day1: [Day1_Serverless](https://www.notion.so/Day1_Serverless-aef3cdb10c2e43658f6c80b21eb0c8da?pvs=4)
