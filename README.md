@@ -58,4 +58,5 @@
 [Day 35: Continuous Learning Roadmap](https://www.notion.so/Day-35-Continuous-Learning-Roadmap-18518117e16f44b5b7e48fe34490c669?pvs=21)
 
 ## Link Notion tự tìm hiểu từng ngày:
-Link Notion Day1: [Day1_Serverless](https://www.notion.so/Day1_Serverless-aef3cdb10c2e43658f6c80b21eb0c8da?pvs=4)
+Link Notion Day1: [Day1_Serverless](https://www.notion.so/Day1_Serverless-aef3cdb10c2e43658f6c80b21eb0c8da)
+
