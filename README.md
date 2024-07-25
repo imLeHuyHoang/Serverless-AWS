@@ -59,4 +59,5 @@
 
 ## Link Notion tự tìm hiểu từng ngày:
 Link Notion Day1: [Day1_Serverless](https://www.notion.so/Day1_Serverless-aef3cdb10c2e43658f6c80b21eb0c8da)
+
 Link Notion Day2: [Day1_Serverless](https://plucky-mercury-4f2.notion.site/Day2_Serverless-fb8a36a7e3f44ea4a3ec635ca4887f1f)
